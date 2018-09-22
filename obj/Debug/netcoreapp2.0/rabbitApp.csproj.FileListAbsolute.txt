@@ -1,0 +1,11 @@
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.csprojResolveAssemblyReference.cache
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.csproj.CoreCompileInputs.cache
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.AssemblyInfoInputs.cache
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.AssemblyInfo.cs
+C:\Users\caljf\Documents\rabbitApp\bin\Debug\netcoreapp2.0\rabbitApp.deps.json
+C:\Users\caljf\Documents\rabbitApp\bin\Debug\netcoreapp2.0\rabbitApp.runtimeconfig.json
+C:\Users\caljf\Documents\rabbitApp\bin\Debug\netcoreapp2.0\rabbitApp.runtimeconfig.dev.json
+C:\Users\caljf\Documents\rabbitApp\bin\Debug\netcoreapp2.0\rabbitApp.dll
+C:\Users\caljf\Documents\rabbitApp\bin\Debug\netcoreapp2.0\rabbitApp.pdb
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.dll
+C:\Users\caljf\Documents\rabbitApp\obj\Debug\netcoreapp2.0\rabbitApp.pdb
