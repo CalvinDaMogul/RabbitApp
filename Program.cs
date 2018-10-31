@@ -104,6 +104,9 @@ namespace rabbitApp
             Magilla.legs=2;
             Magilla.SeeAll();
             Magilla.MakeSound(3);
+            Ape George= new Ape("George", "blue", "fast", "male");
+            George.legs=2;
+            George.SeeAll();
 
             giraffe Gordon=new giraffe("Gordon","yellow","moderate","male");
             GiraffeMaster Gerald=new GiraffeMaster();
