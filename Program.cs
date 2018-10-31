@@ -107,6 +107,7 @@ namespace rabbitApp
             Ape George= new Ape("George", "blue", "fast", "male");
             George.legs=2;
             George.SeeAll();
+            George.MakeSound();
 
             giraffe Gordon=new giraffe("Gordon","yellow","moderate","male");
             GiraffeMaster Gerald=new GiraffeMaster();
