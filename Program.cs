@@ -84,6 +84,7 @@ namespace rabbitApp
             Charlotte.eatMeat();
             Charlie.eatMeat();
             Charlie.graze();
+            Charlie.makeNoise();
             Charlie.DisplayAll();
 
 
