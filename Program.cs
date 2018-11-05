@@ -82,6 +82,8 @@ namespace rabbitApp
             Charlotte.makeNoise();
             Charlotte.MakePrimalNoise();
             Charlotte.eatMeat();
+            Charlie.eatMeat();
+            Charlie.graze();
 
 
             LifeForm Angel= Billy.mate((LifeForm)Charlotte);
