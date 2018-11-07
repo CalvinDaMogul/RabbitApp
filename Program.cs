@@ -76,6 +76,7 @@ namespace rabbitApp
 
             Pig Charlotte=new Pig("Charlotte","male","pink","slow");
             Pig Charlie= new Pig("Charlie","male","green","fast");
+            Pig Shirley= new Pig("Shirley", "female","orange","moderate");
 
             Charlotte.DisplayAll();
             Charlotte.graze();
