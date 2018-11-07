@@ -87,6 +87,8 @@ namespace rabbitApp
             Charlie.graze();
             Charlie.makeNoise();
             Charlie.DisplayAll();
+            Shirley.DisplayAll();
+            Shirley.graze();
 
 
             LifeForm Angel= Billy.mate((LifeForm)Charlotte);
